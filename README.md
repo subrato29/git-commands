@@ -6,3 +6,4 @@ common git commands
 - git stash apply
 - git pull --rebase origin [branch]
 - git checkout -b [new-branch]
+- git push -f origin [branch]

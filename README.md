@@ -8,3 +8,5 @@ common git commands
 - git pull --rebase origin [branch]
 - git checkout -b [new-branch]
 - git push -f origin [branch]
+- git branch
+- git commit -m "message1" -m "message2"

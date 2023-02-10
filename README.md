@@ -10,3 +10,5 @@ common git commands
 - git push -f origin [branch]
 - git branch
 - git commit -m "message1" -m "message2"
+- git branch -d <local-branch>
+- git branch -D <local-branch> (Force delete)
